@@ -1,4 +1,4 @@
-package com.myorganization;
+package com.eugeniaqa;
 
 public class Main {
     public static void main(String[] args) {
