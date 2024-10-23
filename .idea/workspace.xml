@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b658f14a-5323-45b0-a4c1-9ac7bde5e1e6" name="Changes" comment="add gitignore file">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myorganization/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eugeniaqa/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/variablesandcomments/VariablesAndComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/eugeniaqa/variablesandcomments/VariablesAndComments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +51,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ChisinauEvidenceCatalog.executor": "Run",
     "Application.GitWorkflow.executor": "Run",
     "Application.ManageAutoService.executor": "Run",
     "Application.VariablesAndComments.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "task__2__ClassesAndObjects",
+    "git-widget-placeholder": "task3__variables__and__access__modifiers",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
