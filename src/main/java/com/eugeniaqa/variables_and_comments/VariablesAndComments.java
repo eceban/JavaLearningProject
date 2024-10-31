@@ -1,4 +1,4 @@
-package com.eugeniaqa.variablesandcomments;
+package com.eugeniaqa.variables_and_comments;
 
 public class VariablesAndComments {
     public static void main(String[] args) {

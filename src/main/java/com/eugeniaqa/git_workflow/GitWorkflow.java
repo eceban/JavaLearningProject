@@ -1,4 +1,4 @@
-package com.eugeniaqa.gitworkflow;
+package com.eugeniaqa.git_workflow;
 
 public class GitWorkflow {
     public static void main(String[] args) {
