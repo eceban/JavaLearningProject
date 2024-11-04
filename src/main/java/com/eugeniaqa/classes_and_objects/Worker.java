@@ -1,4 +1,4 @@
-package com.eugeniaqa.classesandobjects;
+package com.eugeniaqa.classes_and_objects;
 
 public class Worker {
     String name;

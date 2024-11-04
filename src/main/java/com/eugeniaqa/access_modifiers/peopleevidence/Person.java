@@ -1,4 +1,4 @@
-package com.eugeniaqa.accessmodifiers.peopleevidence;
+package com.eugeniaqa.access_modifiers.peopleevidence;
 
 public class Person {
 

@@ -1,6 +1,6 @@
-package com.eugeniaqa.accessmodifiers;
+package com.eugeniaqa.access_modifiers;
 
-import com.eugeniaqa.accessmodifiers.peopleevidence.Person;
+import com.eugeniaqa.access_modifiers.peopleevidence.Person;
 
 public class ChisinauEvidenceCatalog {
 
